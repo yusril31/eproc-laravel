@@ -1,6 +1,16 @@
 
 # 📘 E-Procurement API Documentation
 
+## 💻 Installation Step
+`composer install`
+change `.env.example` to `.env`
+`php artisan migrate`
+`php artisan key:generate`
+`php artisan jwt:secret`
+`php artisan serve`
+
+---
+
 ## 🛡️ Authentication
 All protected routes use **JWT Token** (via `Authorization: Bearer <token>` header).
 
