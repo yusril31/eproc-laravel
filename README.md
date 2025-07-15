@@ -2,12 +2,12 @@
 # 📘 E-Procurement API Documentation
 
 ## 💻 Installation Step
-`composer install`
-change `.env.example` to `.env`
-`php artisan migrate`
-`php artisan key:generate`
-`php artisan jwt:secret`
-`php artisan serve`
+- `composer install`
+- change `.env.example` to `.env`
+- `php artisan migrate`
+- `php artisan key:generate`
+- `php artisan jwt:secret`
+- `php artisan serve`
 
 ---
 
